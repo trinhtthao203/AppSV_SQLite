@@ -1,0 +1,7 @@
+Trước khi chạy dự án, máy phải cài đặt ReactNative.
+
+Bước 1: Chạy dòng lệnh sau vào terminal: npm i sqlite //Thư viện sẽ được tải cùng nodemodule. Trong Nodemodule sẽ tự động thêm thư viện đã được tải trong dự án trong file package.json
+Bước 2: Chạy dòng lệnh sau vào terminal: npm start
+Bước 3: Mở app Expo trong điện thoại và Scan mã QR
+
+/*Xem các thư viện được sử dụng trong dự án trong file package.json nếu có lỗi phiên bản trong lúc chạy*/
